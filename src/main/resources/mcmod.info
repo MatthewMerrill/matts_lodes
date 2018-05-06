@@ -1,0 +1,16 @@
+[
+{
+  "modid": "matts_lodes",
+  "name": "Matt's Lodes",
+  "description": "Lodes of Fun",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["MattMerr"],
+  "credits": "Lamphobic, for getting me hooked on factorio",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
